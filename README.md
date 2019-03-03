@@ -1,2 +1,5 @@
 # hello-world
-Repository for asislord
+
+Hi Nerds,
+
+Genesis here with a novice stats in programming :D 
