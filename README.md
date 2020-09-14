@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Nerds,
+Hi Masters,
 
-Genesis here with a novice stats in programming :D 
+I am a self taught programmer.
